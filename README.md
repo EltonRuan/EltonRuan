@@ -2,8 +2,6 @@
 
 I love technology related to web development and programming. I am constantly learning and exploring new areas. Feel free to look at my profile and contact me.
 
-![Elton Ruan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EltonRuan&show_icons=true&bg_color=000)
-
 You can find me on platforms:
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5512988897895)
