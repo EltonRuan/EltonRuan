@@ -12,17 +12,6 @@ Convido você a explorar meu perfil e conhecer um pouco mais sobre o meu trabalh
 - 🏅 Top 10 - **São Paulo Skills**
 - 🥇 Top 1 - **Programador da Equipe FRC 9458**
 
-Você pode me encontrar nas plataformas:
-
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5512988897895)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gBqMzxGkHP)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eltonruan/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elton.ruan_/)
-[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://www.linktr.ee/elton.ruan_)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/eltonruansilva)
-
-Além disso, tenho um site pessoal onde compartilho meus projetos e experiências:
-
 ### Minhas Ferramentas de Trabalho
 
 **Linguagens:**
@@ -50,4 +39,12 @@ Além disso, tenho um site pessoal onde compartilho meus projetos e experiência
 
 ---
 
-Caso queira alguma outra alteração, é só me avisar!
+Você também pode me encontrar nas plataformas:
+
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5512988897895)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gBqMzxGkHP)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eltonruan/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elton.ruan_/)
+[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://www.linktr.ee/elton.ruan_)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/eltonruansilva)
+
