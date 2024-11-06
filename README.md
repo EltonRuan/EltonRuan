@@ -23,8 +23,6 @@ Você pode me encontrar nas plataformas:
 
 Além disso, tenho um site pessoal onde compartilho meus projetos e experiências:
 
-[![Site](https://img.shields.io/website?label=Galrietech.com.br&style=for-the-badge&url=https://galrietech.com.br)](https://galrietech.com.br)
-
 ### Minhas Ferramentas de Trabalho
 
 **Linguagens:**
