@@ -1,3 +1,7 @@
+Here is the updated version in English, including the languages you can communicate in:
+
+---
+
 ## Hello! I'm Elton Ruan 😉
 
 I'm passionate about technology, especially web development and programming. I always strive to learn and explore new areas to improve and expand my knowledge. 
@@ -6,7 +10,7 @@ Feel free to explore my profile and learn more about my work and projects. Don't
 
 ### Achievements:
 - 🏅 Top 10 - **São Paulo Skills (2024)**
-- 🥇 Top 1 - **Programmer of the FRC Team 9458(2023)**
+- 🥇 Top 1 - **Programmer of the FRC Team 9458 (2023)**
 
 ### My Tools
 
@@ -26,6 +30,17 @@ Feel free to explore my profile and learn more about my work and projects. Don't
 
 ---
 
+### Languages I can communicate in:
+- Portuguese (Native)
+- English
+
+---
+
 You can also find me on the following platforms:
 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5512988897895) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gBqMzxGkHP) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eltonruan/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elton.ruan_/) [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://www.linktr.ee/elton.ruan_) [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/eltonruansilva)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5512988897895)  
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gBqMzxGkHP)  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eltonruan/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elton.ruan_/)  
+[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://www.linktr.ee/elton.ruan_)  
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/eltonruansilva)
