@@ -5,8 +5,8 @@ I'm passionate about technology, especially web development and programming. I a
 Feel free to explore my profile and learn more about my work and projects. Don't hesitate to reach out and exchange ideas!
 
 ### Achievements:
-- 🏅 Top 10 - **São Paulo Skills (2024)**
-- 🥇 Top 1 - **Rookie reward :Programmer of the FRC Team 9458 (2023)**
+- 🏅 Top 10 - **Sao Paulo Skills (2024)**
+- 🥇 Top 1 - **Rookie reward : programmer of the FRC Team 9458 (2023)**
 
 ### My Tools
 
