@@ -6,7 +6,7 @@ Feel free to explore my profile and learn more about my work and projects. Don't
 
 ### Achievements:
 - 🏅 Top 10 - **São Paulo Skills (2024)**
-- 🥇 Top 1 - **Programmer of the FRC Team 9458 (2023)**
+- 🥇 Top 1 - **Rookie reward :Programmer of the FRC Team 9458 (2023)**
 
 ### My Tools
 
