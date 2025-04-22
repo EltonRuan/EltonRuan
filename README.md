@@ -11,8 +11,8 @@
 > 📈 GITHUB STATS
 
 <div align="center">  
-<img width=400 src="https://streak-stats.demolab.com?user=EltonRuan&hide_border=true&locale=pt_BR&theme=dark&ring=00BFFF&fire=00BFFF&sideNums=00BFFF">
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EltonRuan&cache_bust=1&hide_border=true&layout=compact&theme=dark&title_color=00BFFF&text_color=00BFFF&icon_color=00BFFF"/>
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EltonRuan&cache_bust=1&hide_border=true&layout=compact&theme=dark&title_color=FFA500&text_color=FFA500&icon_color=FFA500"/>
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=EltonRuan&show_icons=true&hide_border=true&theme=dark&title_color=FFA500&text_color=FFA500&icon_color=FFA500"/>
 </div>
 <br>
 
