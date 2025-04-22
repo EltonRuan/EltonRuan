@@ -3,8 +3,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffa600&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Elton+Ruan!;Tech+Enthusiast+%7C+Problem+Solver)
 
 <h2 align="center">ABOUT ME</h2>
-
-Full Stack developer driven by technology, learning, and the desire to turn ideas into real solutions.
+<p align="center">Full Stack developer driven by technology, learning, and the desire to turn ideas into real solutions.
+</p>
 
 ---
 
