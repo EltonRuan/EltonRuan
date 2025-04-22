@@ -19,9 +19,6 @@
 
 <br>
 
-![status](https://img.shields.io/badge/status-online-brightgreen)
-![license](https://img.shields.io/github/license/EltonRuan/meu-projeto)
-
 > 🚀 MINHAS PRINCIPAIS SKILLS
 
 <div align="center">
