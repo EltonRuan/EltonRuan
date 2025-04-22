@@ -8,6 +8,14 @@
 
 ---
 
+> 🚀 SKILLS / TOOLS
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,sql,react,nodejs,laravel,bootstrap,tailwind,docker,vscode,git&perline=10" />
+</div>
+
+<br>
+
 > 📈 GITHUB STATS
 
 <div align="center">  
@@ -15,14 +23,6 @@
   
   <img height="155" src="https://github-readme-stats.vercel.app/api?username=EltonRuan&show_icons=true&hide_border=true&theme=dark&title_color=FFA500&text_color=FFEFD5&icon_color=FFA500"/>
 
-</div>
-
-<br>
-
-> 🚀 MINHAS PRINCIPAIS SKILLS
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,sql,react,nodejs,laravel,bootstrap,tailwind,docker,vscode,git&perline=10" />
 </div>
 
 ---
