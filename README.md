@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=f78205&text=Elton%20Ruan&section=header&textBg=false&fontColor=f0edeb&fontSize=90&animation=fadeIn"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Elton+Ruan!;Tech+Enthusiast+%7C+Problem+Solver)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffa600&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Elton+Ruan!;Tech+Enthusiast+%7C+Problem+Solver)
 
 <h2 align="center">ABOUT ME</h2>
 
