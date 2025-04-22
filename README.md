@@ -10,8 +10,8 @@
 
 > 🚀 SKILLS / TOOLS
 
-<div >
-<img src="https://skillicons.dev/icons?i=html,css,js,php,sql,react,nodejs,laravel,bootstrap,tailwind,docker,vscode,git&perline=10" />
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,laravel,bootstrap,tailwind,docker,vscode,git&perline=20" />
 </div>
 
 <br>
