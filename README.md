@@ -4,7 +4,7 @@
 
 <h2 align="center">ABOUT ME</h2>
 
-Sou Elton Ruan, um desenvolvedor Full Stack apaixonado por tecnologia. Amo transformar ideias em soluções digitais, e estou sempre em busca de aprender mais e aplicar esse conhecimento de forma prática e impactante.
+Full Stack developer driven by technology, learning, and the desire to turn ideas into real solutions.
 
 ---
 
