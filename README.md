@@ -1,4 +1,4 @@
-<img width=100% src="[https://capsule-render.vercel.app/api?type=waving&color=1572B6&height=120&section=header](https://capsule-render.vercel.app/api?type=waving&height=300&color=f78205&text=Elton%20Ruan&section=header&textBg=false&fontColor=f0edeb&fontSize=90&animation=fadeIn)"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=f78205&text=Elton%20Ruan&section=header&textBg=false&fontColor=f0edeb&fontSize=90&animation=fadeIn"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Elton+Ruan!;Full+Stack+Developer+%7C+Tech+Enthusiast+%7C+Problem+Solver)
 
