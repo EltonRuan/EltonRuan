@@ -18,24 +18,6 @@
 
 <br>
 
-<div align="center">
-
-  <!-- Streak de contribuição -->
-  <img height="155" src="https://github-readme-streak-stats.herokuapp.com?user=EltonRuan&theme=dark&hide_border=true&ring=FFA500&fire=FFA500&currStreakLabel=FFEFD5&currStreakNum=FFEFD5&sideNums=FFEFD5&sideLabels=FFA500&dates=FFEFD5"/>
-
-  <!-- Gráfico de commit por hora do dia -->
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=EltonRuan&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=dark&title_color=FFA500&text_color=FFEFD5&icon_color=FFA500"/>
-</div>
-
-<br>
-
-<!-- Snake animado de contribuição (ajuda a mostrar frequência) -->
-<div align="center">
-  <img src="https://github.com/EltonRuan/EltonRuan/blob/output/github-contribution-grid-snake.svg" />
-</div>
-
-<br>
-
 > 🚀 MINHAS PRINCIPAIS SKILLS
 
 <div align="center">
