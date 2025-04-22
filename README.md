@@ -15,10 +15,12 @@
   
   <img height="155" src="https://github-readme-stats.vercel.app/api?username=EltonRuan&show_icons=true&hide_border=true&theme=dark&title_color=FFA500&text_color=FFEFD5&icon_color=FFA500"/>
 
-  <img src="https://github.com/EltonRuan/EltonRuan/blob/main/github-metrics.svg" />
 </div>
 
 <br>
+
+![status](https://img.shields.io/badge/status-online-brightgreen)
+![license](https://img.shields.io/github/license/EltonRuan/meu-projeto)
 
 > 🚀 MINHAS PRINCIPAIS SKILLS
 
