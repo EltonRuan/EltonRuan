@@ -77,4 +77,4 @@ Sou Elton Ruan, um desenvolvedor Full Stack apaixonado por tecnologia. Amo trans
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=f78205&section=footer&textBg=false&fontColor=f0edeb&fontSize=90&animation=fadeIn"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=f78205&section=footer&textBg=false&fontColor=f0edeb&fontSize=90&animation=fadeIn"/>
