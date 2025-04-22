@@ -19,7 +19,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/EltonRuan/EltonRuan/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=EltonRuan&repo=nome-do-repo&theme=dark&title_color=FFA500&text_color=FFEFD5&icon_color=FFA500" />
 </div>
 
 <br>
