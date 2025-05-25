@@ -43,19 +43,19 @@
 
 ## 🚀 MY PROJECTS
 
-| 🎁 **Project** | 🚀 **Version** | ⭐ **Stars** |
-|----------------|---------------|-------------|
-| [NomeDoProjeto1](https://github.com/EltonRuan/NomeDoProjeto1) | v1.0.0 | ⭐ 15 |
-| [NomeDoProjeto2](https://github.com/EltonRuan/NomeDoProjeto2) | v2.3.1 | ⭐ 40 |
-| [NomeDoProjeto3](https://github.com/EltonRuan/NomeDoProjeto3) | v0.9.5 | ⭐ 8  |
+| 🎁 **Project** | 🚀 **Version** | ⭐ **Stars** | ⭐ **Last Update** |
+|----------------|---------------|-------------|-------------|
+| [NomeDoProjeto1](https://github.com/EltonRuan/NomeDoProjeto1) | v1.0.0 | ⭐ 15 | April, 20th 2024 |
+| [NomeDoProjeto2](https://github.com/EltonRuan/NomeDoProjeto2) | v2.3.1 | ⭐ 40 | April, 20th 2024 |
+| [NomeDoProjeto3](https://github.com/EltonRuan/NomeDoProjeto3) | v0.9.5 | ⭐ 8  | April, 20th 2024 |
 
 ## 📚 DOCUMENTATIONS
 
-| 📖 **Documentation** | 🚀 **Version** | ⭐ **Stars** |
-|---------------------|------------------|------------------------|
-| [Git](https://github.com/EltonRuan/git) | v1.0 | ⭐ 15 |
-| [Visual Studio Code](https://github.com/EltonRuan/vscode) | v1.0 | ⭐ 15 |
-| [Bootstrap](https://github.com/EltonRuan/bootstrap) | v1.0 | ⭐ 15 |
+| 📖 **Documentation** | 🚀 **Version** | ⭐ **Stars** | ⭐ **Last Update** |
+|---------------------|------------------|------------------------|-------------|
+| [Git](https://github.com/EltonRuan/git) | v1.0 | ⭐ 15 | April, 20th 2024 |
+| [Visual Studio Code](https://github.com/EltonRuan/vscode) | v1.0 | ⭐ 15 | April, 20th 2024 |
+| [Bootstrap](https://github.com/EltonRuan/bootstrap) | v1.0 | ⭐ 15 | April, 20th 2024 |
 
 ---
 
