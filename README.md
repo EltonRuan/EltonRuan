@@ -43,22 +43,25 @@
 
 ## 🚀 MY PROJECTS
 
-| 🎁 **Project** | 📝 **Description** | 🚀 **Version** | ⭐ **Stars** | ⭐ **Last Update** |
-|----------------|----------------|---------------|-------------|----------------------|
+| 🎁 **Project** | 📝 **Description** | 🚀 **Version** | ⭐ **Stars** | 🧠 **Language** |
+|----------------|------------------|----------------|-------------|-----------------|
 | [Codeignitersimplecrud](https://github.com/EltonRuan/codeignitersimplecrud) | CRUD (Create, Read, Update, Delete) using Codeigniter framework. | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/codeignitersimplecrud?style=flat&label=) | ![Language](https://img.shields.io/github/languages/top/EltonRuan/codeignitersimplecrud?style=flat) |
-| [Api-simple-manipulation-laravel](https://github.com/EltonRuan/api-simple-manipulation-laravel) | CRUD ( Create, Read, Update, Delete ) using Laravel framework. | v1.0 | ⭐ 40 | April, 20th 2024 |
-| [Apipokemon](https://github.com/EltonRuan/apipokemon) | API system for pokemon trainers! | v1.0 | ⭐ 8  | April, 20th 2024 |
-| [Calculator-js](https://github.com/EltonRuan/calculator-js) | Calculator with javascript! | v1.0 | ⭐ 8  | April, 20th 2024 |
-| [More...](https://github.com/EltonRuan/) | coming soon... | v1.0 | ⭐ 8  | April, 20th 2024 |
+| [Api-simple-manipulation-laravel](https://github.com/EltonRuan/api-simple-manipulation-laravel) | CRUD (Create, Read, Update, Delete) using Laravel framework. | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/api-simple-manipulation-laravel?style=flat&label=) | ![Language](https://img.shields.io/github/languages/top/EltonRuan/api-simple-manipulation-laravel?style=flat) |
+| [Apipokemon](https://github.com/EltonRuan/apipokemon) | API system for Pokémon trainers! | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/apipokemon?style=flat&label=) | ![Language](https://img.shields.io/github/languages/top/EltonRuan/apipokemon?style=flat) |
+| [Calculator-js](https://github.com/EltonRuan/calculator-js) | Calculator with JavaScript! | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/calculator-js?style=flat&label=) | ![Language](https://img.shields.io/github/languages/top/EltonRuan/calculator-js?style=flat) |
+| [More...](https://github.com/EltonRuan/) | Coming soon... | v1.0 | — | — |
+
+---
 
 ## 📚 DOCUMENTATIONS
 
-| 📖 **Documentation** | 📝 **Description** | 🚀 **Version** | ⭐ **Stars** | ⭐ **Last Update** |
-|---------------------|------------------|------------------|------------------------|-------------|
-| [Git](https://github.com/EltonRuan/git) | These are my notes on Git. | v1.0 | ⭐ 15 | April, 20th 2024 |
-| [Visual Studio Code](https://github.com/EltonRuan/vscode) | These are my notes on Visual Studio Code. | v1.0 | ⭐ 15 | April, 20th 2024 |
-| [Bootstrap](https://github.com/EltonRuan/bootstrap) | These are my notes on Bootstrap.| v1.0 | ⭐ 15 | April, 20th 2024 |
-| [More...](https://github.com/EltonRuan/) | coming soon... | v1.0 | ⭐ 8  | April, 20th 2024 |
+| 📖 **Documentation** | 📝 **Description** | 🚀 **Version** | ⭐ **Stars** |
+|----------------------|-------------------|----------------|--------------|
+| [Git](https://github.com/EltonRuan/git) | These are my notes on Git. | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/git?style=flat&label=) |
+| [Visual Studio Code](https://github.com/EltonRuan/vscode) | These are my notes on Visual Studio Code. | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/vscode?style=flat&label=) |
+| [Bootstrap](https://github.com/EltonRuan/bootstrap) | These are my notes on Bootstrap. | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/bootstrap?style=flat&label=) |
+| [More...](https://github.com/EltonRuan/) | Coming soon... | v1.0 | — |
+
 
 ---
 
