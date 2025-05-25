@@ -43,19 +43,19 @@
 
 ## 🚀 MY PROJECTS
 
-| 🎁 **Project** | 🚀 **Version** | ⭐ **Stars** | ⭐ **Last Update** |
-|----------------|---------------|-------------|-------------|
-| [NomeDoProjeto1](https://github.com/EltonRuan/NomeDoProjeto1) | v1.0.0 | ⭐ 15 | April, 20th 2024 |
-| [NomeDoProjeto2](https://github.com/EltonRuan/NomeDoProjeto2) | v2.3.1 | ⭐ 40 | April, 20th 2024 |
-| [NomeDoProjeto3](https://github.com/EltonRuan/NomeDoProjeto3) | v0.9.5 | ⭐ 8  | April, 20th 2024 |
+| 🎁 **Project** | 🎁 **Description** | 🚀 **Version** | ⭐ **Stars** | ⭐ **Last Update** |
+|----------------|----------------|---------------|-------------|-------------|
+| [Codeignitersimplecrud](https://github.com/EltonRuan/codeignitersimplecrud) | minha descrição aqui | v1.0 | ⭐ 15 | April, 20th 2024 |
+| [Api-simple-manipulation-laravel](https://github.com/EltonRuan/api-simple-manipulation-laravel) | minha descrição aqui | v1.0 | ⭐ 40 | April, 20th 2024 |
+| [Apipokemon](https://github.com/EltonRuan/apipokemon) | minha descrição aqui | v1.0 | ⭐ 8  | April, 20th 2024 |
 
 ## 📚 DOCUMENTATIONS
 
-| 📖 **Documentation** | 🚀 **Version** | ⭐ **Stars** | ⭐ **Last Update** |
-|---------------------|------------------|------------------------|-------------|
-| [Git](https://github.com/EltonRuan/git) | v1.0 | ⭐ 15 | April, 20th 2024 |
-| [Visual Studio Code](https://github.com/EltonRuan/vscode) | v1.0 | ⭐ 15 | April, 20th 2024 |
-| [Bootstrap](https://github.com/EltonRuan/bootstrap) | v1.0 | ⭐ 15 | April, 20th 2024 |
+| 📖 **Documentation** | 🎁 **Description** | 🚀 **Version** | ⭐ **Stars** | ⭐ **Last Update** |
+|---------------------|------------------|------------------|------------------------|-------------|
+| [Git](https://github.com/EltonRuan/git) | minha descrição aqui | v1.0 | ⭐ 15 | April, 20th 2024 |
+| [Visual Studio Code](https://github.com/EltonRuan/vscode) | minha descrição aqui | v1.0 | ⭐ 15 | April, 20th 2024 |
+| [Bootstrap](https://github.com/EltonRuan/bootstrap) | minha descrição aqui | v1.0 | ⭐ 15 | April, 20th 2024 |
 
 ---
 
