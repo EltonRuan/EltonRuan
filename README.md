@@ -54,8 +54,8 @@
 | 📖 **Documentation** | 🚀 **Version** | ⭐ **Stars** |
 |---------------------|------------------|------------------------|
 | [Git](https://github.com/EltonRuan/git) | v1.0 | ⭐ 15 |
-| [GuiaLaravelAPI](https://github.com/EltonRuan/GuiaLaravelAPI) | v2.1 | ⭐ 15 |
-| [ManualPainelAdmin](https://github.com/EltonRuan/ManualPainelAdmin) | v1.2 | ⭐ 15 |
+| [Visual Studio Code](https://github.com/EltonRuan/vscode) | v1.0 | ⭐ 15 |
+| [Bootstrap](https://github.com/EltonRuan/bootstrap) | v1.0 | ⭐ 15 |
 
 ---
 
