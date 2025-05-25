@@ -78,4 +78,6 @@
 
 ---
 
+![Trophy](https://github-profile-trophy.vercel.app/?username=eltonruan&theme=gruvbox&column=7&margin-w=10&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=f78205&section=footer&textBg=false&fontColor=f0edeb&fontSize=90&animation=fadeIn"/>
