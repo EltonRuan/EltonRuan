@@ -43,13 +43,13 @@
 
 ## 🚀 MY PROJECTS
 
-| 🎁 **Project** | 📝 **Description** | 🚀 **Version** | ⭐ **Stars** | 🧠 **Language** |
-|----------------|------------------|----------------|-------------|-----------------|
-| [Codeignitersimplecrud](https://github.com/EltonRuan/codeignitersimplecrud) | CRUD (Create, Read, Update, Delete) using Codeigniter framework. | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/codeignitersimplecrud?style=flat&label=) | ![Language](https://img.shields.io/github/languages/top/EltonRuan/codeignitersimplecrud?style=flat) |
-| [Api-simple-manipulation-laravel](https://github.com/EltonRuan/api-simple-manipulation-laravel) | CRUD (Create, Read, Update, Delete) using Laravel framework. | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/api-simple-manipulation-laravel?style=flat&label=) | ![Language](https://img.shields.io/github/languages/top/EltonRuan/api-simple-manipulation-laravel?style=flat) |
-| [Apipokemon](https://github.com/EltonRuan/apipokemon) | API system for Pokémon trainers! | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/apipokemon?style=flat&label=) | ![Language](https://img.shields.io/github/languages/top/EltonRuan/apipokemon?style=flat) |
-| [Calculator-js](https://github.com/EltonRuan/calculator-js) | Calculator with JavaScript! | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/calculator-js?style=flat&label=) | ![Language](https://img.shields.io/github/languages/top/EltonRuan/calculator-js?style=flat) |
-| [More...](https://github.com/EltonRuan/) | Coming soon... | v1.0 | — | — |
+| 🎁 **Project** | 📝 **Description** | 🚀 **Version** | ⭐ **Stars** |
+|----------------|------------------|----------------|-------------|
+| [Codeignitersimplecrud](https://github.com/EltonRuan/codeignitersimplecrud) | CRUD (Create, Read, Update, Delete) using Codeigniter framework. | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/codeignitersimplecrud?style=flat&label=) |
+| [Api-simple-manipulation-laravel](https://github.com/EltonRuan/api-simple-manipulation-laravel) | CRUD (Create, Read, Update, Delete) using Laravel framework. | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/api-simple-manipulation-laravel?style=flat&label=) |
+| [Apipokemon](https://github.com/EltonRuan/apipokemon) | API system for Pokémon trainers! | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/apipokemon?style=flat&label=) |
+| [Calculator-js](https://github.com/EltonRuan/calculator-js) | Calculator with JavaScript! | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/calculator-js?style=flat&label=) |
+| [More...](https://github.com/EltonRuan/) | Coming soon... | v1.0 | — |
 
 ---
 
