@@ -45,17 +45,20 @@
 
 | 🎁 **Project** | 🎁 **Description** | 🚀 **Version** | ⭐ **Stars** | ⭐ **Last Update** |
 |----------------|----------------|---------------|-------------|-------------|
-| [Codeignitersimplecrud](https://github.com/EltonRuan/codeignitersimplecrud) | minha descrição aqui | v1.0 | ⭐ 15 | April, 20th 2024 |
-| [Api-simple-manipulation-laravel](https://github.com/EltonRuan/api-simple-manipulation-laravel) | minha descrição aqui | v1.0 | ⭐ 40 | April, 20th 2024 |
-| [Apipokemon](https://github.com/EltonRuan/apipokemon) | minha descrição aqui | v1.0 | ⭐ 8  | April, 20th 2024 |
+| [Codeignitersimplecrud](https://github.com/EltonRuan/codeignitersimplecrud) | CRUD ( Create, Read, Update, Delete ) using Codeigniter framework. | v1.0 | ⭐ 15 | April, 20th 2024 |
+| [Api-simple-manipulation-laravel](https://github.com/EltonRuan/api-simple-manipulation-laravel) | CRUD ( Create, Read, Update, Delete ) using Laravel framework. | v1.0 | ⭐ 40 | April, 20th 2024 |
+| [Apipokemon](https://github.com/EltonRuan/apipokemon) | API system for pokemon trainers! | v1.0 | ⭐ 8  | April, 20th 2024 |
+| [Calculator-js](https://github.com/EltonRuan/calculator-js) | Calculator with javascript! | v1.0 | ⭐ 8  | April, 20th 2024 |
+| [More...](https://github.com/EltonRuan/) | coming soon... | v1.0 | ⭐ 8  | April, 20th 2024 |
 
 ## 📚 DOCUMENTATIONS
 
 | 📖 **Documentation** | 🎁 **Description** | 🚀 **Version** | ⭐ **Stars** | ⭐ **Last Update** |
 |---------------------|------------------|------------------|------------------------|-------------|
-| [Git](https://github.com/EltonRuan/git) | minha descrição aqui | v1.0 | ⭐ 15 | April, 20th 2024 |
-| [Visual Studio Code](https://github.com/EltonRuan/vscode) | minha descrição aqui | v1.0 | ⭐ 15 | April, 20th 2024 |
-| [Bootstrap](https://github.com/EltonRuan/bootstrap) | minha descrição aqui | v1.0 | ⭐ 15 | April, 20th 2024 |
+| [Git](https://github.com/EltonRuan/git) | These are my notes on Git. | v1.0 | ⭐ 15 | April, 20th 2024 |
+| [Visual Studio Code](https://github.com/EltonRuan/vscode) | These are my notes on Visual Studio Code. | v1.0 | ⭐ 15 | April, 20th 2024 |
+| [Bootstrap](https://github.com/EltonRuan/bootstrap) | These are my notes on Bootstrap.| v1.0 | ⭐ 15 | April, 20th 2024 |
+| [More...](https://github.com/EltonRuan/) | coming soon... | v1.0 | ⭐ 8  | April, 20th 2024 |
 
 ---
 
