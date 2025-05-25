@@ -43,19 +43,19 @@
 
 ## 🚀 MY PROJECTS
 
-| 🎁 **Projeto** | 🚀 **Versão** | 📥 **Downloads** | ⭐ **Stars** |
+| 🎁 **Project** | 🚀 **Version** | ⭐ **Stars** |
 |----------------|---------------|------------------|-------------|
-| [NomeDoProjeto1](https://github.com/EltonRuan/NomeDoProjeto1) | v1.0.0 | 120+ | ⭐ 15 |
-| [NomeDoProjeto2](https://github.com/EltonRuan/NomeDoProjeto2) | v2.3.1 | 300+ | ⭐ 40 |
-| [NomeDoProjeto3](https://github.com/EltonRuan/NomeDoProjeto3) | v0.9.5 | 85+  | ⭐ 8  |
+| [NomeDoProjeto1](https://github.com/EltonRuan/NomeDoProjeto1) | v1.0.0 | ⭐ 15 |
+| [NomeDoProjeto2](https://github.com/EltonRuan/NomeDoProjeto2) | v2.3.1 | ⭐ 40 |
+| [NomeDoProjeto3](https://github.com/EltonRuan/NomeDoProjeto3) | v0.9.5 | ⭐ 8  |
 
 ## 📚 DOCUMENTATIONS
 
-| 📖 **Documentação** | 📌 **Referência** | 📤 **Publicações** | 👁️ **Visualizações** |
+| 📖 **Documentation** | 🚀 **Version** | ⭐ **Stars** |
 |---------------------|------------------|---------------------|------------------------|
-| [DocSistemaX](https://github.com/EltonRuan/DocSistemaX) | v1.0 | 3 artigos | 1.2k+ |
-| [GuiaLaravelAPI](https://github.com/EltonRuan/GuiaLaravelAPI) | v2.1 | 5 tópicos | 800+ |
-| [ManualPainelAdmin](https://github.com/EltonRuan/ManualPainelAdmin) | v1.2 | 4 arquivos | 600+ |
+| [DocSistemaX](https://github.com/EltonRuan/DocSistemaX) | v1.0 | ⭐ 15 |
+| [GuiaLaravelAPI](https://github.com/EltonRuan/GuiaLaravelAPI) | v2.1 | ⭐ 15 |
+| [ManualPainelAdmin](https://github.com/EltonRuan/ManualPainelAdmin) | v1.2 | ⭐ 15 |
 
 ---
 
