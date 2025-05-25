@@ -44,7 +44,7 @@
 ## 🚀 MY PROJECTS
 
 | 🎁 **Project** | 🎁 **Description** | 🚀 **Version** | ⭐ **Stars** | ⭐ **Last Update** |
-|----------------|----------------|---------------|-------------|-------------|
+|----------------|----------------|---------------|-------------|----------------------|
 | [Codeignitersimplecrud](https://github.com/EltonRuan/codeignitersimplecrud) | CRUD ( Create, Read, Update, Delete ) using Codeigniter framework. | v1.0 | ⭐ 15 | April, 20th 2024 |
 | [Api-simple-manipulation-laravel](https://github.com/EltonRuan/api-simple-manipulation-laravel) | CRUD ( Create, Read, Update, Delete ) using Laravel framework. | v1.0 | ⭐ 40 | April, 20th 2024 |
 | [Apipokemon](https://github.com/EltonRuan/apipokemon) | API system for pokemon trainers! | v1.0 | ⭐ 8  | April, 20th 2024 |
