@@ -45,7 +45,7 @@
 
 | 🎁 **Project** | 📝 **Description** | 🚀 **Version** | ⭐ **Stars** | ⭐ **Last Update** |
 |----------------|----------------|---------------|-------------|----------------------|
-| [Codeignitersimplecrud](https://github.com/EltonRuan/codeignitersimplecrud) | CRUD ( Create, Read, Update, Delete ) using Codeigniter framework. | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/codeignitersimplecrud?style=flat&label=&logoColor=white&color=orange) | ![Last Commit](https://img.shields.io/github/last-commit/EltonRuan/codeignitersimplecrud?label=&color=blue&style=flat&format=short-date) |
+| [Codeignitersimplecrud](https://github.com/EltonRuan/codeignitersimplecrud) | CRUD (Create, Read, Update, Delete) using Codeigniter framework. | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/codeignitersimplecrud?style=flat&label=) | ![Last Commit](https://img.shields.io/github/last-commit/EltonRuan/codeignitersimplecrud?style=flat&label=) |
 | [Api-simple-manipulation-laravel](https://github.com/EltonRuan/api-simple-manipulation-laravel) | CRUD ( Create, Read, Update, Delete ) using Laravel framework. | v1.0 | ⭐ 40 | April, 20th 2024 |
 | [Apipokemon](https://github.com/EltonRuan/apipokemon) | API system for pokemon trainers! | v1.0 | ⭐ 8  | April, 20th 2024 |
 | [Calculator-js](https://github.com/EltonRuan/calculator-js) | Calculator with javascript! | v1.0 | ⭐ 8  | April, 20th 2024 |
