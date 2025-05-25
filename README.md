@@ -53,7 +53,7 @@
 
 | 📖 **Documentation** | 🚀 **Version** | ⭐ **Stars** |
 |---------------------|------------------|------------------------|
-| [DocSistemaX](https://github.com/EltonRuan/DocSistemaX) | v1.0 | ⭐ 15 |
+| [Git](https://github.com/EltonRuan/git) | v1.0 | ⭐ 15 |
 | [GuiaLaravelAPI](https://github.com/EltonRuan/GuiaLaravelAPI) | v2.1 | ⭐ 15 |
 | [ManualPainelAdmin](https://github.com/EltonRuan/ManualPainelAdmin) | v1.2 | ⭐ 15 |
 
