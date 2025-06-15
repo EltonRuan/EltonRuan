@@ -8,7 +8,7 @@
 
 ---
 
-> 🚀 CORE SKILLS / TOOLS
+> 🚀 MY CORE SKILLS / TOOLS
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,laravel,bootstrap,tailwind,docker,vscode,git,wordpress,postman&perline=20" />
