@@ -49,7 +49,7 @@
 | [Api-simple-manipulation-laravel](https://github.com/EltonRuan/api-simple-manipulation-laravel) | CRUD (Create, Read, Update, Delete) using Laravel framework. | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/api-simple-manipulation-laravel?style=flat&label=) |
 | [Apipokemon](https://github.com/EltonRuan/apipokemon) | API system for Pokémon trainers! | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/apipokemon?style=flat&label=) |
 | [Calculator-js](https://github.com/EltonRuan/calculator-js) | Calculator with JavaScript! | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/calculator-js?style=flat&label=) |
-| [Qrcode-pix](https://github.com/EltonRuan/qrcode-pix) | A simple QRCODE for payment by pix with PHP! | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/qrcode-pix?style=flat&label=) |
+| [QRcode-pix](https://github.com/EltonRuan/qrcode-pix) | A simple QRCODE for payment by pix with PHP! | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/qrcode-pix?style=flat&label=) |
 | [More...](https://github.com/EltonRuan/) | Coming soon... | v1.0 | — |
 
 ---
