@@ -63,6 +63,7 @@
 | [Visual Studio Code](https://github.com/EltonRuan/vscode) | These are my notes on Visual Studio Code. | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/vscode?style=flat&label=) |
 | [Bootstrap](https://github.com/EltonRuan/bootstrap) | These are my notes on Bootstrap. | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/bootstrap?style=flat&label=) |
 | [Tailwind](https://github.com/EltonRuan/tailwind) | These are my notes on Tailwind. | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/tailwind?style=flat&label=) |
+| [PHP](https://github.com/EltonRuan/php) | These are my notes on php. | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/php?style=flat&label=) |
 | [More...](https://github.com/EltonRuan/) | Coming soon... | v1.0 | — |
 
 
