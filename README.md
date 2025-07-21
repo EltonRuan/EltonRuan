@@ -50,7 +50,7 @@
 | [Apipokemon](https://github.com/EltonRuan/apipokemon) | API system for Pokémon trainers! | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/apipokemon?style=flat&label=) |
 | [Calculator-js](https://github.com/EltonRuan/calculator-js) | Calculator with JavaScript! | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/calculator-js?style=flat&label=) |
 | [QRcode-pix](https://github.com/EltonRuan/qrcode-pix) | A simple QRCODE for payment by pix with PHP! | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/qrcode-pix?style=flat&label=) |
-| [PHP: Zero to Advanced](https://github.com/EltonRuan/php-from-zero-to-advanced) | My PHP study with some projects and notes | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/php-from-zero-to-advanced?style=flat&label=) |
+| [PHP: From Zero to Advanced](https://github.com/EltonRuan/php-from-zero-to-advanced) | My PHP study with some projects and notes | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/php-from-zero-to-advanced?style=flat&label=) |
 | [More...](https://github.com/EltonRuan/) | Coming soon... | v1.0 | — |
 
 ---
