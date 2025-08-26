@@ -69,18 +69,17 @@
 
 ---
 
-## 📚 DOCKER
+## 🐳 DOCKER
 
-| 📖 **Project**                                                                    | 📝 **Description**                                             | 🚀 **Tech / Version**                | ⭐ **Stars**                                                                                      |
-| --------------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------ |
-| [PHP + Apache + MySQL](https://github.com/EltonRuan/php-docker)                   | Ambiente completo PHP + Apache + MySQL configurado com Docker. | PHP 8.2 + Apache + MySQL 8.0         | ![Stars](https://img.shields.io/github/stars/EltonRuan/php-docker?style=flat\&label=)            |
-| [Node.js + Express + MongoDB](https://github.com/EltonRuan/node-docker)           | Clássico para APIs REST.                                       | Node.js 20 + Express + MongoDB 6.0   | ![Stars](https://img.shields.io/github/stars/EltonRuan/node-docker?style=flat\&label=)           |
-| [Python + Django + PostgreSQL](https://github.com/EltonRuan/python-django-docker) | Ambiente completo para aplicações web.                         | Python 3.12 + Django + PostgreSQL 16 | ![Stars](https://img.shields.io/github/stars/EltonRuan/python-django-docker?style=flat\&label=)  |
-| [Python + FastAPI + Redis](https://github.com/EltonRuan/python-fastapi-docker)    | APIs modernas e rápidas.                                       | Python 3.12 + FastAPI + Redis 7      | ![Stars](https://img.shields.io/github/stars/EltonRuan/python-fastapi-docker?style=flat\&label=) |
-| [Java + Spring Boot + MySQL](https://github.com/EltonRuan/java-spring-docker)     | Stack corporativa bastante usada.                              | Java 21 + Spring Boot + MySQL 8.0    | ![Stars](https://img.shields.io/github/stars/EltonRuan/java-spring-docker?style=flat\&label=)    |
-| [Go + PostgreSQL](https://github.com/EltonRuan/go-docker)                         | Minimalista e performático.                                    | Go 1.21 + PostgreSQL 16              | ![Stars](https://img.shields.io/github/stars/EltonRuan/go-docker?style=flat\&label=)             |
-| [More…](https://github.com/EltonRuan/)                                            | Novos projetos Docker serão adicionados em breve.              | —                                    | —                                                                                                |
-
+| 📖 **Project**                                                                    | 📝 **Description**                                                | 🚀 **Tech / Version**                | ⭐ **Stars**                                                                                      |
+| --------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------ |
+| [PHP + Apache + MySQL](https://github.com/EltonRuan/php-docker)                   | Complete PHP + Apache + MySQL environment configured with Docker. | PHP 8.2 + Apache + MySQL 8.0         | ![Stars](https://img.shields.io/github/stars/EltonRuan/php-docker?style=flat\&label=)            |
+| [Node.js + Express + MongoDB](https://github.com/EltonRuan/node-docker)           | Classic stack for REST APIs.                                      | Node.js 20 + Express + MongoDB 6.0   | ![Stars](https://img.shields.io/github/stars/EltonRuan/node-docker?style=flat\&label=)           |
+| [Python + Django + PostgreSQL](https://github.com/EltonRuan/python-django-docker) | Full web application environment.                                 | Python 3.12 + Django + PostgreSQL 16 | ![Stars](https://img.shields.io/github/stars/EltonRuan/python-django-docker?style=flat\&label=)  |
+| [Python + FastAPI + Redis](https://github.com/EltonRuan/python-fastapi-docker)    | Modern and fast APIs.                                             | Python 3.12 + FastAPI + Redis 7      | ![Stars](https://img.shields.io/github/stars/EltonRuan/python-fastapi-docker?style=flat\&label=) |
+| [Java + Spring Boot + MySQL](https://github.com/EltonRuan/java-spring-docker)     | Widely used enterprise stack.                                     | Java 21 + Spring Boot + MySQL 8.0    | ![Stars](https://img.shields.io/github/stars/EltonRuan/java-spring-docker?style=flat\&label=)    |
+| [Go + PostgreSQL](https://github.com/EltonRuan/go-docker)                         | Minimalist and high-performance.                                  | Go 1.21 + PostgreSQL 16              | ![Stars](https://img.shields.io/github/stars/EltonRuan/go-docker?style=flat\&label=)             |
+| [More…](https://github.com/EltonRuan/)                                            | New Docker projects will be added soon.                           | —                                    | —                                                                                                |
 
 
 ---
