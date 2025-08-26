@@ -78,7 +78,10 @@
 | [Python + Django + PostgreSQL](https://github.com/EltonRuan/python-django-docker) | Full web application environment.                                 | Python 3.12 + Django + PostgreSQL 16 | ![Stars](https://img.shields.io/github/stars/EltonRuan/python-django-docker?style=flat\&label=)  |
 | [Python + FastAPI + Redis](https://github.com/EltonRuan/python-fastapi-docker)    | Modern and fast APIs.                                             | Python 3.12 + FastAPI + Redis 7      | ![Stars](https://img.shields.io/github/stars/EltonRuan/python-fastapi-docker?style=flat\&label=) |
 | [Java + Spring Boot + MySQL](https://github.com/EltonRuan/java-spring-docker)     | Widely used enterprise stack.                                     | Java 21 + Spring Boot + MySQL 8.0    | ![Stars](https://img.shields.io/github/stars/EltonRuan/java-spring-docker?style=flat\&label=)    |
+| [React + Vite + Nginx](https://github.com/EltonRuan/react-vite-docker)            | SPA served in a container.                                        | React + Vite + Nginx                 | ![Stars](https://img.shields.io/github/stars/EltonRuan/react-vite-docker?style=flat\&label=)     |
+| [Next.js + Node.js](https://github.com/EltonRuan/next-node-docker)                | Modern SSR/SSG stack.                                             | Next.js + Node.js                    | ![Stars](https://img.shields.io/github/stars/EltonRuan/next-node-docker?style=flat\&label=)      |
 | [More…](https://github.com/EltonRuan/)                                            | New Docker projects will be added soon.                           | —                                    | —                                                                                                |
+
 
 
 ---
