@@ -78,7 +78,6 @@
 | [Python + Django + PostgreSQL](https://github.com/EltonRuan/python-django-docker) | Full web application environment.                                 | Python 3.12 + Django + PostgreSQL 16 | ![Stars](https://img.shields.io/github/stars/EltonRuan/python-django-docker?style=flat\&label=)  |
 | [Python + FastAPI + Redis](https://github.com/EltonRuan/python-fastapi-docker)    | Modern and fast APIs.                                             | Python 3.12 + FastAPI + Redis 7      | ![Stars](https://img.shields.io/github/stars/EltonRuan/python-fastapi-docker?style=flat\&label=) |
 | [Java + Spring Boot + MySQL](https://github.com/EltonRuan/java-spring-docker)     | Widely used enterprise stack.                                     | Java 21 + Spring Boot + MySQL 8.0    | ![Stars](https://img.shields.io/github/stars/EltonRuan/java-spring-docker?style=flat\&label=)    |
-| [Go + PostgreSQL](https://github.com/EltonRuan/go-docker)                         | Minimalist and high-performance.                                  | Go 1.21 + PostgreSQL 16              | ![Stars](https://img.shields.io/github/stars/EltonRuan/go-docker?style=flat\&label=)             |
 | [More…](https://github.com/EltonRuan/)                                            | New Docker projects will be added soon.                           | —                                    | —                                                                                                |
 
 
