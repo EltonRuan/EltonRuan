@@ -8,40 +8,6 @@
 
 ---
 
-> 🚀 MY CORE SKILLS / TOOLS
-
-## 🎨 Front-End
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,bootstrap&perline=10" />
-</div>
-
-<br>
-
-## ⚙️ Back-End
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,ts,prisma,py,java,cs&perline=10" />
-</div>
-
-<br>
-
-## 🐳 DevOps & Infra
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=docker,mysql,postgres,aws,mongodb&perline=10" />
-</div>
-
-<br>
-
-## 🛠️ Tools & Workflow
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,figma,postman,wordpress&perline=10" />
-</div>
-
-<br>
-
 > 📈 GITHUB STATS
 
 <div align="center">  
@@ -50,6 +16,44 @@
   <img height="155" src="https://github-readme-stats.vercel.app/api?username=EltonRuan&show_icons=true&hide_border=true&theme=dark&title_color=FFA500&text_color=FFEFD5&icon_color=FFA500"/>
 
 </div>
+
+<br>
+
+---
+
+> 🚀 MY CORE SKILLS / TOOLS
+
+### 🎨 Front-End
+
+<div>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,bootstrap&perline=10" />
+</div>
+
+<br>
+
+### ⚙️ Back-End
+
+<div>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,ts,prisma,py,java,cs&perline=10" />
+</div>
+
+<br>
+
+### 🐳 DevOps & Infra
+
+<div>
+<img src="https://skillicons.dev/icons?i=docker,mysql,postgres,aws,mongodb&perline=10" />
+</div>
+
+<br>
+
+### 🛠️ Tools & Workflow
+
+<div>
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,wordpress&perline=10" />
+</div>
+
+<br>
 
 ---
 
