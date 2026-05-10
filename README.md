@@ -10,8 +10,34 @@
 
 > 🚀 MY CORE SKILLS / TOOLS
 
+## 🎨 Front-End
+
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,laravel,bootstrap,tailwind,docker,vscode,git,wordpress,postman,discord,figma,github,py&perline=20" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,bootstrap&perline=10" />
+</div>
+
+<br>
+
+## ⚙️ Back-End
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,ts,prisma,py,java,cs&perline=10" />
+</div>
+
+<br>
+
+## 🐳 DevOps & Infra
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=docker,mysql,postgres,aws,mongodb&perline=10" />
+</div>
+
+<br>
+
+## 🛠️ Tools & Workflow
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,wordpress&perline=10" />
 </div>
 
 <br>
