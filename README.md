@@ -130,7 +130,7 @@
 
 > 📲 CONTACT
 
-<div align="center">
+<div>
   <a href="https://www.eltonruandev.com.br/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://api.whatsapp.com/send?phone=5512988897895"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/eltonruan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
