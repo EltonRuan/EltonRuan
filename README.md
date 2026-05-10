@@ -43,12 +43,14 @@
 
 ## 🚀 MY PROJECTS
 
+
 ### 🎓 UNIP 2026
 
 | 🎁 **Project** | 📝 **Description** | 🛠️ **Tecnology** |
 |----------------|------------------|----------------|
 | [PIM-01](https://github.com/EltonRuan/pim-01) | Simple business waste analysis system using Python dictionaries and console-based reports. Developed for academic purposes focusing on data organization and inventory analysis. | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 | [More...](https://github.com/EltonRuan/) | Coming soon... | — |
+
 
 ### 🙋 PERSONAL / PRACTICE
 
@@ -58,6 +60,7 @@
 | [Api-simple-manipulation-laravel](https://github.com/EltonRuan/api-simple-manipulation-laravel) | CRUD (Create, Read, Update, Delete) using Laravel framework. | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
 | [Calculator-js](https://github.com/EltonRuan/calculator-js) | Calculator built with JavaScript. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 | [More...](https://github.com/EltonRuan/) | Coming soon... | — |
+
 
 ### ⏱️ CHALLANGES
 
@@ -84,16 +87,14 @@
 
 ## 🐳 DOCKER
 
-| 📖 **Project**                                                                    | 📝 **Description**                                                | 🚀 **Tech / Version**                | ⭐ **Stars**                                                                                      |
-| --------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------ |
-| [PHP + Apache + MySQL](https://github.com/EltonRuan/php-docker)                   | Complete PHP + Apache + MySQL environment configured with Docker. | PHP 8.2 + Apache + MySQL 8.0         | ![Stars](https://img.shields.io/github/stars/EltonRuan/php-docker?style=flat\&label=)            |
-| [Node.js + Express + MongoDB](https://github.com/EltonRuan/node-docker)           | Classic stack for REST APIs.                                      | Node.js 20 + Express + MongoDB 6.0   | ![Stars](https://img.shields.io/github/stars/EltonRuan/node-docker?style=flat\&label=)           |
-| [Python + Django + PostgreSQL](https://github.com/EltonRuan/python-django-docker) | Full web application environment.                                 | Python 3.12 + Django + PostgreSQL 16 | ![Stars](https://img.shields.io/github/stars/EltonRuan/python-django-docker?style=flat\&label=)  |
-| [React + Vite + Nginx](https://github.com/EltonRuan/react-vite-docker)            | SPA served in a container.                                        | React + Vite + Nginx                 | ![Stars](https://img.shields.io/github/stars/EltonRuan/react-vite-docker?style=flat\&label=)     |
-| [Next.js + Node.js](https://github.com/EltonRuan/next-node-docker)                | Modern SSR/SSG stack.                                             | Next.js + Node.js                    | ![Stars](https://img.shields.io/github/stars/EltonRuan/next-node-docker?style=flat\&label=)      |
-| [More…](https://github.com/EltonRuan/)                                            | New Docker projects will be added soon.                           | —                                    | —                                                                                                |
-
-
+| 📖 **Project** | 📝 **Description** | 🚀 **Tech / Version** |
+| ---------------------| ---------------------------------| ------------------------------------ |
+| [PHP + Apache + MySQL](https://github.com/EltonRuan/php-docker) | Complete PHP + Apache + MySQL environment configured with Docker. | PHP 8.2 + Apache + MySQL 8.0 |
+| [Node.js + Express + MongoDB](https://github.com/EltonRuan/node-docker) | Classic stack for REST APIs. | Node.js 20 + Express + MongoDB 6.0  | 
+| [Python + Django + PostgreSQL](https://github.com/EltonRuan/python-django-docker) | Full web application environment. | Python 3.12 + Django + PostgreSQL 16 |
+| [React + Vite + Nginx](https://github.com/EltonRuan/react-vite-docker) | SPA served in a container. | React + Vite + Nginx |
+| [Next.js + Node.js](https://github.com/EltonRuan/next-node-docker) | Modern SSR/SSG stack. | Next.js + Node.js | 
+| [More…](https://github.com/EltonRuan/) | New Docker projects will be added soon. | — |
 
 ---
 
