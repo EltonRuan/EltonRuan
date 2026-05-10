@@ -43,42 +43,42 @@
 
 ## 🚀 MY PROJECTS
 
-## 🎓 UNIP 2026
+### 🎓 UNIP 2026
 
 | 🎁 **Project** | 📝 **Description** | 🛠️ **Tecnology** |
 |----------------|------------------|----------------|
 | [PIM-01](https://github.com/EltonRuan/pim-01) | Simple business waste analysis system using Python dictionaries and console-based reports. Developed for academic purposes focusing on data organization and inventory analysis. | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 | [More...](https://github.com/EltonRuan/) | Coming soon... | — |
 
-## 🚀 PERSONAL
+### 🙋 PERSONAL / PRACTICE
 
-## 🚀 CHALLANGES
+| 🎁 **Project** | 📝 **Description** | 🛠️ **Tecnology** |
+|----------------|------------------|----------------|
+| [Codeignitersimplecrud](https://github.com/EltonRuan/codeignitersimplecrud) | CRUD (Create, Read, Update, Delete) using CodeIgniter framework. | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
+| [Api-simple-manipulation-laravel](https://github.com/EltonRuan/api-simple-manipulation-laravel) | CRUD (Create, Read, Update, Delete) using Laravel framework. | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
+| [Calculator-js](https://github.com/EltonRuan/calculator-js) | Calculator built with JavaScript. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| [More...](https://github.com/EltonRuan/) | Coming soon... | — |
 
+### ⏱️ CHALLANGES
 
-
-| 🎁 **Project** | 📝 **Description** | 🚀 **Version** | ⭐ **Stars** |
-|----------------|------------------|----------------|-------------|
-| [Codeignitersimplecrud](https://github.com/EltonRuan/codeignitersimplecrud) | CRUD (Create, Read, Update, Delete) using Codeigniter framework. | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/codeignitersimplecrud?style=flat&label=) |
-| [Api-simple-manipulation-laravel](https://github.com/EltonRuan/api-simple-manipulation-laravel) | CRUD (Create, Read, Update, Delete) using Laravel framework. | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/api-simple-manipulation-laravel?style=flat&label=) |
-| [Apipokemon](https://github.com/EltonRuan/apipokemon) | API system for Pokémon trainers! | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/apipokemon?style=flat&label=) |
-| [Calculator-js](https://github.com/EltonRuan/calculator-js) | Calculator with JavaScript! | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/calculator-js?style=flat&label=) |
-| [QRcode-pix](https://github.com/EltonRuan/qrcode-pix) | A simple QRCODE for payment by pix with PHP! | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/qrcode-pix?style=flat&label=) |
-| [PHP: From Zero to Advanced](https://github.com/EltonRuan/php-from-zero-to-advanced) | My PHP study with some projects and notes | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/php-from-zero-to-advanced?style=flat&label=) |
-| [More...](https://github.com/EltonRuan/) | Coming soon... | v1.0 | — |
+| 🎁 **Project** | 📝 **Description** | 🛠️ **Tecnology** |
+|----------------|------------------|----------------|
+| [Apipokemon](https://github.com/EltonRuan/apipokemon) | API system for Pokémon trainers! | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| [QRcode-pix](https://github.com/EltonRuan/qrcode-pix) | A simple QRCODE for payment by pix with PHP! | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
+| [More...](https://github.com/EltonRuan/) | Coming soon... | — |
 
 ---
 
 ## 📚 DOCUMENTATIONS
 
-| 📖 **Documentation** | 📝 **Description** | 🚀 **Version** | ⭐ **Stars** |
-|----------------------|-------------------|----------------|--------------|
-| [Git](https://github.com/EltonRuan/git) | These are my notes on Git. | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/git?style=flat&label=) |
-| [Visual Studio Code](https://github.com/EltonRuan/vscode) | These are my notes on Visual Studio Code. | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/vscode?style=flat&label=) |
-| [Bootstrap](https://github.com/EltonRuan/bootstrap) | These are my notes on Bootstrap. | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/bootstrap?style=flat&label=) |
-| [Tailwind](https://github.com/EltonRuan/tailwind) | These are my notes on Tailwind. | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/tailwind?style=flat&label=) |
-| [PHP](https://github.com/EltonRuan/php) | These are my notes on php. | v1.0 | ![Stars](https://img.shields.io/github/stars/EltonRuan/php?style=flat&label=) |
-| [More...](https://github.com/EltonRuan/) | Coming soon... | v1.0 | — |
-
+| 📖 **Documentation** | 📝 **Description** |
+|----------------------|-------------------|
+| [Git](https://github.com/EltonRuan/git) | These are my notes on Git. |
+| [Visual Studio Code](https://github.com/EltonRuan/vscode) | These are my notes on Visual Studio Code. |
+| [Bootstrap](https://github.com/EltonRuan/bootstrap) | These are my notes on Bootstrap. |
+| [Tailwind](https://github.com/EltonRuan/tailwind) | These are my notes on Tailwind. |
+| [PHP](https://github.com/EltonRuan/php) | These are my notes on php. |
+| [More...](https://github.com/EltonRuan/) | Coming soon... |
 
 ---
 
