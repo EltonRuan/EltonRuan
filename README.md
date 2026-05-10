@@ -46,7 +46,7 @@
 ## 🎓 UNIP 2026
 
 | 🎁 **Project** | 📝 **Description** | 🛠️ **Tecnology** |
-|----------------|------------------|----------------|-------------|
+|----------------|------------------|----------------|
 | [PIM-01](https://github.com/EltonRuan/pim-01) | Simple business waste analysis system using Python dictionaries and console-based reports. Developed for academic purposes focusing on data organization and inventory analysis. | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 | [More...](https://github.com/EltonRuan/) | Coming soon... | — |
 
